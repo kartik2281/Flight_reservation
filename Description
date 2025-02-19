@@ -1,0 +1,18 @@
+A Flight Reservation System (FRS) is a software application used by airlines, travel agencies, and passengers to book, manage, and track flights. It automates the process of searching for available flights, making reservations, issuing tickets, and handling customer inquiries.
+
+Key Components of a Flight Reservation System
+User Interface (UI) – A web or mobile interface for customers to search and book flights.
+Flight Search & Booking – Allows users to enter their travel details (departure, destination, date) and view available flights.
+Passenger Management – Stores passenger details such as name, contact, passport number, and travel history.
+Seat Selection – Provides an interactive seat map for customers to choose their preferred seats.
+Payment Gateway – Secure integration with payment services for processing online transactions.
+Ticket Generation – Issues electronic tickets (e-tickets) with booking reference numbers.
+Pricing & Fare Calculation – Dynamic pricing based on factors like demand, season, and availability.
+Reservation & Confirmation – Confirms the booking and notifies the passenger via email or SMS.
+Cancellation & Refunds – Enables passengers to cancel bookings and request refunds based on airline policies.
+Check-in & Boarding Management – Supports online check-in, boarding pass generation, and real-time flight status updates.
+Customer Support – Chatbots or human agents assist passengers with queries and modifications.
+Types of Flight Reservation Systems
+Centralized Airline Reservation Systems (ARS): Used by airlines to manage bookings, schedules, and customer data.
+Global Distribution Systems (GDS): Platforms like Amadeus, Sabre, and Travelport that connect multiple airlines, hotels, and travel agencies.
+Online Travel Agency (OTA) Systems: Websites like Expedia, MakeMyTrip, and Booking.com that allow users to compare and book flights.
